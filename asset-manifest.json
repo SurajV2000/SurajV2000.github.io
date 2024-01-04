@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34031235.css",
-    "main.js": "/static/js/main.dcbb9d6f.js",
+    "main.js": "/static/js/main.ac69f513.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/suraj-vishwakarma-resume.pdf": "/static/media/suraj-vishwakarma-resume.497ad13c3f0ec6f05259.pdf",
     "static/media/poppins-devanagari-400-italic.woff": "/static/media/poppins-devanagari-400-italic.08359c079f3cb3015ed5.woff",
@@ -18,11 +18,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
     "index.html": "/index.html",
     "main.34031235.css.map": "/static/css/main.34031235.css.map",
-    "main.dcbb9d6f.js.map": "/static/js/main.dcbb9d6f.js.map",
+    "main.ac69f513.js.map": "/static/js/main.ac69f513.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34031235.css",
-    "static/js/main.dcbb9d6f.js"
+    "static/js/main.ac69f513.js"
   ]
 }
