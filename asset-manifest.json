@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.34031235.css",
-    "main.js": "/static/js/main.79dfa68d.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/suraj-vishwakarma-resume.pdf": "/static/media/suraj-vishwakarma-resume.497ad13c3f0ec6f05259.pdf",
+    "main.css": "/static/css/main.77d23b1e.css",
+    "main.js": "/static/js/main.ce9e5a32.js",
+    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
+    "static/media/suraj-vishwakarma-resume.pdf": "/static/media/suraj-vishwakarma-resume.e2ec5f38b8e8836b0d82.pdf",
     "static/media/indiamart.png": "/static/media/indiamart.b3a977abf9f665b8f103.png",
     "static/media/poppins-devanagari-400-italic.woff": "/static/media/poppins-devanagari-400-italic.08359c079f3cb3015ed5.woff",
     "static/media/poppins-devanagari-400-normal.woff": "/static/media/poppins-devanagari-400-normal.0e11b62db931f85340d4.woff",
@@ -18,12 +18,12 @@
     "static/media/poppins-latin-ext-400-italic.woff2": "/static/media/poppins-latin-ext-400-italic.e1a411cc63cfee23efaa.woff2",
     "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
     "index.html": "/index.html",
-    "main.34031235.css.map": "/static/css/main.34031235.css.map",
-    "main.79dfa68d.js.map": "/static/js/main.79dfa68d.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.77d23b1e.css.map": "/static/css/main.77d23b1e.css.map",
+    "main.ce9e5a32.js.map": "/static/js/main.ce9e5a32.js.map",
+    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34031235.css",
-    "static/js/main.79dfa68d.js"
+    "static/css/main.77d23b1e.css",
+    "static/js/main.ce9e5a32.js"
   ]
 }
